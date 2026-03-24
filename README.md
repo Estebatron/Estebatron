@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Esteban 
-- 👀 I’m interested in Robotics
+- 👀 I’m interested in Artificial intelligence and Robotics
 
 <!---
 Estebatron/Estebatron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
